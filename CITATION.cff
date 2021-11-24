@@ -1,0 +1,8 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Beker
+    given-names: Wiktor
+title: Guided reaction networks generate focused, synthesizable libraries around desired targets. 
+version: 1.0
+date-released: 2021-11-24
